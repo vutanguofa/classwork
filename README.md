@@ -1,34 +1,33 @@
 
-    # 1
+  # Homework 7
+  
+  ## License
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/MIT)
 
-    ## Description
-    2
+  ## Description
+  This repo generates a readme file
 
-    ## Table of Contents
-    [Installation](#installation)
-    [Usage](#usage)
-    [License](#license)
-    [Contributing](#contributing)
-    [Tests](#tests)
-    [Questions](#questions)
+  ## Table of Contents
+  * [Installation](#installation)<br />
+  * [Usage](#usage)<br />
+  * [License](#license)<br />
+  * [Contributing](#contributing)<br />
+  * [Tests](#tests)<br />
+  * [Questions](#questions)
 
-    ## Installation
-    3
+  ## Installation
+  clone repo
 
-    ## Usage
-    4
+  ## Usage
+  used to create a custom readme file
 
-    ## License
-    Academic Free License v3.0
+  ## Contributing
+  Vu Tang
 
-    ## Contributing
-    5
+  ## Tests
+  Successlful results
 
-    ## Tests
-    6
-
-    ## Questions
-    [Link to GitHub profile](https://github.com/7)
-    [Email me](8)
-
+  ## Questions
+  [Link to GitHub profile](https://github.com/vutanguofa)<br />
+  For additional questions, please email at: (vu.q.tang@gmail.com)
   
